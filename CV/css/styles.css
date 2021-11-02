@@ -1,0 +1,57 @@
+.titulos{
+    background-color:  #d5b2eb; 
+    font-family: tahoma;
+    color: #562375;
+}
+
+header{
+    text-align: center;
+    background-color: #eee4f5;
+}
+
+footer{
+    background-color: #562375; 
+    font-family: tahoma;
+    color: #d5b2eb;
+    font-weight: bold;
+    text-align: center;
+    height: 30px;
+    align-items: center;
+    font-weight: bold;
+    
+
+}
+h1{ text-align: center;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    color: #562375; 
+}
+
+h2{
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    color: #562375;
+}
+
+.subtitulos{
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial;
+}
+
+div{
+    display: inline-block;
+    font-family: Arial;
+}
+
+.years{
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.datos{
+    font-family: Arial;
+}
