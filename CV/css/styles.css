@@ -41,6 +41,7 @@ h1.titulos{
     font-size: 45px;
 }
 
+
 h2{
     text-align: left;
     font-style: normal;
@@ -105,4 +106,8 @@ h2{
 
 .boton:hover{
     background-color: #713596;
+}
+i {
+    color: #d5b2eb;
+    font-size: 40px;
 }
