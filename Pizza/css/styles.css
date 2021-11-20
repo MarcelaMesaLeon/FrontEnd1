@@ -1,0 +1,25 @@
+.cabeza{
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+}
+.contenedormain{
+    display: flex;
+}
+.section1{
+    display: flex;
+    align-items: flex-start;
+}
+.pies{
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+}
+.navcabeza{
+    display: inline-block;
+}
+.vinculonav{
+    color: white;
+    text-decoration: none;
+}
+

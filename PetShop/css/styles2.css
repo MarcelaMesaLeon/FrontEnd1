@@ -139,13 +139,13 @@ h1 {
 }
 .contenedorproductos{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding: 0px 100px;
     
 }
 .imagenproducto{
-    width: 300px;
-    height: 280px;
+    width: 20vw;
+    height: 38vh;
 }
 .producto{
     background-color: #FBFAF6;
